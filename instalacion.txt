@@ -1,0 +1,5 @@
+como se instala:
+1- copia todos los archivos en tu carpeta raiz donde tengas la web.
+2- instala el modulo desde la web para el area de usuarios el archivo ruleta.php
+3- Configura el modulo desde el enlace ruleta premios en el panel izquierdo.
+4- define cada cuanto se podra usar la ruleta y cantidad de premios.
